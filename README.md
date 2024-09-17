@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp by https://subscription.packtpub.com/book/web-development/9781803239118
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
 
